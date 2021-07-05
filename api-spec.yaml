@@ -1,8 +1,10 @@
 apiVersion: backstage.io/v1alpha1
-kind: Location
+kind: Component
 metadata:
-  name: siva-components
-  description: A collection of all Backstage example components
+  name: www-space1
+  description: Artist main website
 spec:
-  targets:
-    - ./components/artist-lookup-component.yaml
+  type: website
+  lifecycle: production
+  owner: Team Space-1
+  system: space1artist-engagement-portal
