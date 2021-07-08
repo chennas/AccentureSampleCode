@@ -3,6 +3,9 @@ kind: Component
 metadata:
   name: www.service-3.com
   description: service-3 XYZ Service
+tags:
+  - java
+  - data
 spec:
   type: MicroService
   lifecycle: Development
