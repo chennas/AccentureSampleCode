@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: www.sample.com
+  description: Some XYZ Service
+spec:
+  type: website
+  lifecycle: production
+  owner: Sample Team A
+  system: Sample System A
