@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: www.service-4.com
+  description: service-4 XYZ Service
+tags:
+  - java
+  - data
+spec:
+  type: MicroService
+  lifecycle: Development
+  owner: service-4 Team A
+  system: service-4 System A
