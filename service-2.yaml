@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: www.service-2.com
+  description: service-2 XYZ Service
+spec:
+  type: MicroService
+  lifecycle: Development
+  owner: service-2 Team A
+  system: service-2 System A
