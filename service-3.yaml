@@ -11,3 +11,5 @@ spec:
   lifecycle: Development
   owner: service-3 Team A
   system: service-3 System A
+  domain: RealEstate
+  createdate: 07-10-2021T12:00:00.000Z
