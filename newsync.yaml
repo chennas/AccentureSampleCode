@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: www.newsync-3.com
+  description: newsync-3 XYZ Service
+tags:
+  - java
+  - c
+spec:
+  type: MicroService
+  lifecycle: Development
+  owner: newsync-3 owner A
+  system: newsync-3 System A
