@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: AccentureSampleCode
+  annotations:
+    github.com/project-slug: chennas/AccentureSampleCode
+spec:
+  type: other
+  lifecycle: unknown
+  owner: siva.reddy@cbre.com
